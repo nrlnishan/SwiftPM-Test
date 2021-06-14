@@ -2,12 +2,12 @@
 import PackageDescription
 
 let package = Package(
-    name: "XSDK",
+    name: "SwiftPM-Test",
     platforms: [
         .iOS(.v13)
     ],
     products: [
-        .library(name: "XSDK", targets: ["AeroplaneX"])
+        .library(name: "SwiftPM-Test", targets: ["AeroplaneX"])
     ],
     targets: [
         .binaryTarget(
