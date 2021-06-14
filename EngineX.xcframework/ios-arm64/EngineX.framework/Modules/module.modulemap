@@ -1,0 +1,11 @@
+framework module EngineX {
+  umbrella header "EngineX.h"
+
+  export *
+  module * { export * }
+}
+
+module EngineX.Swift {
+    header "EngineX-Swift.h"
+    requires objc
+}

@@ -1,0 +1,41 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.5 (clang-1205.0.22.9)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
+iPhoneOS14.5.sdk
+/Users/nishanniraula/Library/Developer/Xcode/DerivedData/EngineX-bhoibawqysskvebllmwfafctjrnn/Build/Intermediates.noindex/ArchiveIntermediates/EngineX/IntermediateBuildFilesPath/EngineX.build/Release-iphoneos/EngineX.build/DerivedSources/EngineX_vers.c
+/Users/nishanniraula/Desktop/SwiftPM-Tests/EngineX
+_$s7EngineX09AeroplaneA0C05startA0yyF
+___swift_instantiateConcreteTypeFromMangledName
+_$s7EngineX09AeroplaneA0C04stopA0yyF
+_$s7EngineX09AeroplaneA0C05startA0yyFTm
+_symbolic _____yypG s23_ContiguousArrayStorageC
+_$ss23_ContiguousArrayStorageCyypGMD
+__METACLASS_DATA__TtC7EngineX15AeroplaneEngine
+__DATA__TtC7EngineX15AeroplaneEngine
+_$s7EngineXMXM
+_$s7EngineX09AeroplaneA0CMf
+_symbolic _____ 7EngineX09AeroplaneA0C
+_$s7EngineX09AeroplaneA0CMF
+__swift_FORCE_LOAD_$_swiftFoundation_$_EngineX
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_EngineX
+__swift_FORCE_LOAD_$_swiftDarwin_$_EngineX
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_EngineX
+__swift_FORCE_LOAD_$_swiftDispatch_$_EngineX
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_EngineX
+___swift_reflection_version
+_objc_classes
+Apple clang version 12.0.5 (clang-1205.0.19.55)
+<swift-imported-modules>
+Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
+/Users/nishanniraula/Desktop/SwiftPM-Tests/EngineX/EngineX/AeroplaneEngine.swift
+$s7EngineX09AeroplaneA0CMa
+<compiler-generated>
+deinit
+startEngine
+_allocateUninitializedArray
+$sSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZyp_Tg5
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvgyp_Tg5
+$ss22_ContiguousArrayBufferV5count7storageAByxGSi_s01_aB7StorageCyxGtcfCyp_Tg5
+$ss22_ContiguousArrayBufferV18_initStorageHeader5count8capacityySi_SitFyp_Tg5
+__swift_instantiateConcreteTypeFromMangledName
+init
