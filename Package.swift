@@ -10,8 +10,8 @@ let package = Package(
         .library(name: "XSDK", targets: ["AeroplaneX", "EngineX"])
     ],
     targets: [
-        .binaryTarget(name: "AeroplaneX", path: "AeroplaneX.xcframework"),
-        .binaryTarget(name: "EngineX", path: "EngineX.xcframework")
+        .binaryTarget(name: "AeroplaneX", url: "https://github.com/nrlnishan/SwiftPM-Test/raw/master/xsdk.zip", checksum: "3863a856638beed369fc092dffa44e0380604e2136883b5dae5c7c0ee0b5c347"),
+        .binaryTarget(name: "EngineX", url: "https://github.com/nrlnishan/SwiftPM-Test/raw/master/xsdk.zip", checksum: "3863a856638beed369fc092dffa44e0380604e2136883b5dae5c7c0ee0b5c347"),
     ]
 )
 
