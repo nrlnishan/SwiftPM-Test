@@ -13,7 +13,7 @@ let package = Package(
         .binaryTarget(
             name: "AeroplaneX",
             url: "https://raw.githubusercontent.com/nrlnishan/SwiftPM-Test/master/AeroplaneX.xcframework.zip",
-            checksum: "5f096d84e49845bdca4fd13ca424c4567d6636f51d446e93ffccd98efd8c36d7"
+            checksum: "dbb8cad4272b745d4d3a816a9f99af6901ddd2ea1511d3d1e4d6b28ddcbc5985"
         ),
         .binaryTarget(
             name: "EngineX",
