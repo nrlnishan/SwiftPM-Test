@@ -9,6 +9,9 @@ let package = Package(
     products: [
         .library(name: "SwiftPM-Test", targets: ["AeroplaneX", "EngineX"])
     ],
+    dependencies: [
+        .package(name: "Realm", url: "https://github.com/realm/realm-cocoa", from: "10.12.0")
+    ],
     targets: [
         .binaryTarget(
             name: "AeroplaneX",
