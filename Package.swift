@@ -7,7 +7,7 @@ let package = Package(
         .iOS(.v13)
     ],
     products: [
-        .library(name: "SwiftPM-Test", targets: ["AeroplaneX", "EngineX"])
+        .library(name: "SwiftPM-Test", targets: ["AeroplaneX", "EngineX"]),
     ],
     dependencies: [
         .package(name: "Realm", url: "https://github.com/realm/realm-cocoa", from: "10.12.0")
@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .target(
             name: "SwiftPM-Test",
-            dependencies: [.product(name: "Realm", package: "Realm")]
+            dependencies: ["Realm"]
         ),
         .binaryTarget(
             name: "AeroplaneX",
