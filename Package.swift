@@ -13,6 +13,10 @@ let package = Package(
         .package(name: "Realm", url: "https://github.com/realm/realm-cocoa", from: "10.12.0")
     ],
     targets: [
+        .target(
+            name: "SwiftPM-Test",
+            dependencies: [.product(name: "Realm", package: "Realm")]
+        ),
         .binaryTarget(
             name: "AeroplaneX",
             url: "https://raw.githubusercontent.com/nrlnishan/SwiftPM-Test/master/AeroplaneX.xcframework.zip",
